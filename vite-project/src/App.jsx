@@ -11,8 +11,7 @@ function App() {
     <>
     <CounterTest/>
      <StopWatchTest/>
-     <p>unnecessary commit 1</p>
-     <p>unnecessary commit 2</p>
+     
     </>
   )
 }
