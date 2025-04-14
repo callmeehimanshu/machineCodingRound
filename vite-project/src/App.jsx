@@ -2,6 +2,7 @@ import { useState } from 'react'
 import CounterTest from './Counter/CounterTest'
 import StopWatchTest from './StopWatch/StopWatchTest'
 import './App.css'
+import TodoTest from './ToDo/TodoTest'
 
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
     <>
     <CounterTest/>
      <StopWatchTest/>
-     
+     <TodoTest/>
     </>
   )
 }
